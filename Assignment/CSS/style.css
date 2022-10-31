@@ -50,3 +50,25 @@ img {
 .products_selection {
   column-count: 3;
 }
+
+.panel1 {
+  display: block;
+  background-color: tan;
+  text-align: center;
+  image-resolution: normal;
+  padding: 12px 14px;
+}
+.panel2 {
+  display: block;
+  background-color: #3B6A78;
+  text-align: center;
+  image-resolution: normal;
+  padding: 12px 14px;
+}
+.panel3 {
+  display: block;
+  background-color: teal;
+  text-align: center;
+  image-resolution: normal;
+  padding: 12px 14px;
+}
