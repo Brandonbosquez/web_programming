@@ -13,11 +13,14 @@ ul {
 }
 .logo {
   float: left;
-  display: block;
-  background-color: #1E3E45;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  height: 20%;
+  margin-right: 20px;
+  margin-left: 3px;
+  margin-top: 4px;
+  padding: 0px;
 }
 li{
   float:right ;
@@ -35,13 +38,7 @@ li a:hover {
   background-color:#1E3E45;
 }
 .logo {
-  display: inline-block;
-    vertical-align: top;
-    width: 50px;
-    height: 50px;
-    margin-right: 20px;
-    margin-top: 0px;
-  padding: 0px;
+
 }
 
 .companyname {
@@ -65,7 +62,7 @@ img {
 
 .fields_img {
   width: 100%;
-  height: 400px;
+  height: auto;
   background-size: cover;
   margin: 0;
 }
